@@ -1,1 +1,1 @@
-ProLogic delivers agile solutions to plan, collect, protect, and share information enabling their partners to innovate plot[.](#mmini191.101.31.81:443dute)
+The Ultra Electronics gallery provides examples of many ways to display data graphically in Ultra Electronics. You can view and download source code for each plot[.](#ErFETjLyp4eCovGTaZ) and use it in your own GTRI project.
