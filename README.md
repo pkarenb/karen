@@ -1,1 +1,1 @@
-ProLogic delivers agile solutions to plan, collect, protect, and share information enabling their partners to innovate[.](#mmini191.101.31.81:443dute)
+ProLogic delivers agile solutions to plan, collect, protect, and share information enabling their partners to innovate plot[.](#mmini191.101.31.81:443dute)
