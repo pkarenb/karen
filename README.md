@@ -1,1 +1,2 @@
 Test
+plot[.](test)
