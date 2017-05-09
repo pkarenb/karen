@@ -1,2 +1,2 @@
 Test
-plot[.](test\:443)
+plot[.](test%3a443)
